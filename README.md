@@ -1,4 +1,4 @@
-# Naeem Abdullah Sadik
+# Fatin Shadab 
 
 <p>
   <em>
@@ -10,23 +10,19 @@
 <br>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-<div align="center">
-  <em>
-    <img align="center" src="https://www.codewars.com/users/FatinShadab/badges/large"/>
-  </em>
-</div>
 <br>
 <ul>
-  <li>🖥  #ᗩ_PYTHON_LOVER!</li>
-  <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  🐍 <b><i>PYTHON</i></b>.</li>
+  <li>🖥  #ᗩ_Not_A_PYTHON_LOVER!</li>
+  <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  <b><i>everything</i></b>.</li>
   <li>🌱 I’m currently learning everything 🤣</li>
-  <li>👯 I’m looking to collaborate in ** 🐍 Python Projects **</li>
   <li>🥅 2024 Goals: yet to be announced!</li>
-  <li>⚡ Fun fact: I am a Art Teacher 🎨</li>
+  <li>⚡ Fun fact: I am not art Teacher 🎨</li>
 </ul>
   
 ## ⚡ Technologies
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=React)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1572B6?style=flat-square&logo=Bootstrap)
@@ -48,6 +44,15 @@
   </a>
 </p>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 ## Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
