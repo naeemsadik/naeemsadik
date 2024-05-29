@@ -1,8 +1,8 @@
-# Fatin Shadab 
+# Naeem Abdullah Sadik 
 
 <p>
   <em>
-    I am an open source 🐍Python-developer, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
+    I am an open source developer, Student 👨‍🎓:. Who is <b>obsessed</b> with the idea of <b>improving</b> himself and wants to <b>learn</b> and 
     <b>grow</b> as much as he can.
   </em>  
 </p>
@@ -12,11 +12,11 @@
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <br>
 <ul>
-  <li>🖥  #ᗩ_Not_A_PYTHON_LOVER!</li>
+  <li>I AM_Not_A_PYTHON_LOVER!</li>
   <li>🤔  𝘐 𝘭𝘰𝘷𝘦 𝘵𝘰 𝘴𝘰𝘭𝘷𝘦 𝘱𝘳𝘰𝘣𝘭𝘦𝘮𝘴 𝘵𝘩𝘳𝘰𝘶𝘨𝘩  <b><i>everything</i></b>.</li>
   <li>🌱 I’m currently learning everything 🤣</li>
   <li>🥅 2024 Goals: yet to be announced!</li>
-  <li>⚡ Fun fact: I am not art Teacher 🎨</li>
+  <li>⚡ Fun fact: I am not an art Teacher 🎨</li>
 </ul>
   
 ## ⚡ Technologies
