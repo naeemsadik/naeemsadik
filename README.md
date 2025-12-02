@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently studying Computer Science at United International University<br>💬 Ask me about ⚡ Fun fact I'm a <br>
+🌱 I’m currently studying Computer Science at United International University<br>
 
 
 ## 🌐 Socials:
